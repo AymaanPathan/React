@@ -1,0 +1,15 @@
+@media (max-width:600px) {
+    .main-div{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        margin-bottom: 12px;
+    }
+    .you-img{
+        height: 28vh;
+        border-radius: 5px;
+        box-shadow: 2px 3px 8px;
+    }
+}

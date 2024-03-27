@@ -1,0 +1,19 @@
+@media (max-width:600px) {
+    .main{
+        margin-top: 0;
+    }
+    .hero-img{
+        max-height:20vh;
+    }
+    .text-div{
+        position: absolute;
+        top: 15vh;
+        left: 1vh;
+    }
+    .p1{
+        font-size: 6vw;
+    }
+    .p2 {
+        display: none;
+    }
+}

@@ -1,0 +1,27 @@
+.hr {
+    border:none;
+    height: 3px;
+    border-radius: 10px;
+    background: #ee6868;
+}
+
+@media (max-width:600px) {
+    .logo-icon{
+        font-size: 6vw;
+        margin-left: 22vw;
+    }
+    .nav{
+        font-size: 3vw;
+        display: flex;
+        gap: 14px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .reg-btn{
+        font-size: 3vw;
+    }
+    .user {
+        margin-left: 3px;
+        gap: 14px;
+    }
+}
